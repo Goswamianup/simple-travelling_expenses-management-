@@ -10,8 +10,11 @@ click on SetupDB it will create database automatically in phpMyAdmin
 
 Open http://xampp_server_ip address/expense_management/login.php in your browser.
 🚀 Features
+
 Admin Login (Username: admin, Password: admin123)
+
 Add and view employee travel expenses
+
 Filter expenses by employee or date
 
 🛠️ Tech Stack
