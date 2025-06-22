@@ -18,15 +18,24 @@ Add and view employee travel expenses
 
 Filter expenses by employee or date
 
+
 🛠️ Tech Stack
+
 PHP (Core)
+
 MySQL
+
 HTML/CSS
+
 FPDF Library (for PDF export)
+
 PhpSpreadsheet (for Excel export)
 
+
 📌 Notes
+
 Designed for small-scale use (ideal for learning/demo).
+
 You can extend it with user roles, receipt uploads, and monthly reports.
 
 📃 License
