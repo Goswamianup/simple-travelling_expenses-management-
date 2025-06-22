@@ -6,7 +6,7 @@ Place the project folder in your htdocs directory.
 
 Start XAMPP (Apache & MySQL).
 
-click on SetupDB it will create databse will be created automatic in phpMyAdmin
+click on SetupDB it will create database will be created automatic in phpMyAdmin
 
 Open http://xampp_server_ip address/expense_management/login.php in your browser.
 🚀 Features
